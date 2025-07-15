@@ -1,4 +1,4 @@
-PROJECT IDEA: I'd like to make a 3D printed pot that will light up when the plant requires watering.  
+PROJECT IDEA: I'd like to make a 3D printed pot that will light up when the plant requires watering.Functional Parts & Fritzing Schematic from https://www.elithecomputerguy.com/2019/07/soil-moisture-sensor-led-alert-with-arduino-uno/: 
 
 | REASONS BEHIND CHOICE:  |
 | ------------- |
@@ -6,7 +6,7 @@ PROJECT IDEA: I'd like to make a 3D printed pot that will light up when the plan
 | #2 Modular and can be expanded upon with more time/skill level/random ideas |
 | #3 I can't remember to do small chores like watering plants |  
 
-|Functional Parts & Fritzing Schematic from https://www.elithecomputerguy.com/2019/07/soil-moisture-sensor-led-alert-with-arduino-uno/:  |
+| FUNCTIONAL PARTS |
 | ------------- |
 | Arduino Uno – https://store.arduino.cc/usa/arduino-uno-rev3 |
 | 560 Piece Jumper Wire Kit – https://amzn.to/2MsCLjL |
