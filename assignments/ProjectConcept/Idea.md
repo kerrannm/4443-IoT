@@ -14,6 +14,8 @@ PROJECT IDEA: I'd like to make a 3D printed pot that will light up when the plan
 | 220 Ohm Resistors – https://amzn.to/2RiiMD9 |
 | LED Kit – https://amzn.to/2Rjhs2N |
 | Breadboard Kit – https://amzn.to/2Xih5ei |  
+
+
 <img src=![moisture-sensors](https://github.com/user-attachments/assets/6fa844f4-98f8-490e-b745-a29a615d8714)
 width="200" height="400">  
 
