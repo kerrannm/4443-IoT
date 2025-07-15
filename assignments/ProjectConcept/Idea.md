@@ -15,13 +15,12 @@ PROJECT IDEA: I'd like to make a 3D printed pot that will light up when the plan
 | LED Kit – https://amzn.to/2Rjhs2N |
 | Breadboard Kit – https://amzn.to/2Xih5ei |  
 
-![moisture-sensors](https://github.com/user-attachments/assets/a324de08-aad9-4152-82cb-56b403718319)
-
-
-
 |Thingiverse Refs for 3D pot component: |
 | ------------- |
 | https://www.thingiverse.com/thing:4646260 |
 | https://www.thingiverse.com/thing:4974057 |
 | https://www.thingiverse.com/thing:2444234 |
 | https://www.thingiverse.com/thing:5960590 |
+
+
+![moisture-sensors](https://github.com/user-attachments/assets/a324de08-aad9-4152-82cb-56b403718319)
