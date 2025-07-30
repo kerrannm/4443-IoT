@@ -22,6 +22,7 @@ PROJECT IDEA: I'd like to make a 3D printed pot that will light up when the plan
 | https://www.thingiverse.com/thing:2444234 |
 | https://www.thingiverse.com/thing:5960590 |
 | https://www.printables.com/model/567244-light-up-flower-pot-using-led-strips/files |
+| https://www.instructables.com/Automatic-Smart-Plant-Pot-DIY-3D-Printed-Arduino-S/ |
 
 
 ![moisture-sensors](https://github.com/user-attachments/assets/a324de08-aad9-4152-82cb-56b403718319)
