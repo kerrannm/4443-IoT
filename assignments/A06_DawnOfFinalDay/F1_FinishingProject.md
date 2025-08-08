@@ -3,6 +3,7 @@ With so much time dedicated to 3D printing, finishing the project that I had sou
 Due to the size of my finished project (aaand my inability to properly size objects), I ended up using an ESP32 instead of an Arduino -- the latter wouldn't fit inside of my finished project! Blunders became blessings once again, though, as hooking up the components to the ESP32 was a breeze. In terms of code, I was able to mash up two open source code snippets from esp32io.com ( [this](https://esp32io.com/tutorials/esp32-soil-moisture-sensor) and [this](https://esp32io.com/tutorials/esp32-traffic-light) ) to quickly get something up and running. The only thing that was really left to do was determine the logic for which light would illuminate for each value. Strangely enough, higher values were associated with drier environments, so it seems the sensor's value function in the opposite way than one would intuit. The code for the project can be seen in F2_MoistureLEDS.   
 
 Here's what the pot ended up looking like:
+![TrafficLightSmall](https://github.com/user-attachments/assets/a7a60457-dff6-4a87-83ff-b3a105b1b3be)
 
 
 
