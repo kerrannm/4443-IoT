@@ -4,5 +4,12 @@ After learning a little bit about wiring, bread boards, arduinos, and all that o
 Before selecting one of the thingiverse/printable files for my actual project, I picked a stress test to see how the printer works. I chose [this spider](https://www.printables.com/model/299185-spiders-web-a-3d-printer-stress-test) as it was super adorable and that was the only criteria that truly mattered. F2_SpiderPrint.mp4 shows the birth of this cuteness. Seriously, look at it!!      
 ![spider](https://github.com/user-attachments/assets/192588ea-ec71-4593-85b1-0543fc2a99ed)  
 
+With that accomplished, 3D printing seemed like a breeze. It was time to print out the parts for my project and everything would go swimmingly.... right?   
+
+
+      Right???
+
+
+         FIND OUT NEXT TIME IN A05_3DPrintingSaga (Alternative Title: The Trials and Tribulations of Filament)
 
 
