@@ -7,9 +7,10 @@ Before selecting one of the thingiverse/printable files for my actual project, I
 With that accomplished, 3D printing seemed like a breeze. It was time to print out the parts for my project and everything would go swimmingly.... right?   
 
 
-      Right???
+Right???
 
 
-         FIND OUT NEXT TIME IN A05_3DPrintingSaga (Alternative Title: The Trials and Tribulations of Filament)
+FIND OUT NEXT TIME IN A05_3DPrintingSaga (Alternative Title: The Trials and Tribulations of Filament)
+
 
 
